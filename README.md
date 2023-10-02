@@ -25,8 +25,12 @@ Fora do horário de aula ou monitoria:
 
 ## Slides
 
-| Slide |
-|:------|
+| Slide                                                                                                       |
+|:------------------------------------------------------------------------------------------------------------|
+| [00-intro-curso.html](https://curso-r.github.io/202310-intro-ml/slides/00-intro-curso.html)                 |
+| [01-intro-ml.html](https://curso-r.github.io/202310-intro-ml/slides/01-intro-ml.html)                       |
+| [02-intro-classificacao.html](https://curso-r.github.io/202310-intro-ml/slides/02-intro-classificacao.html) |
+| [03-modelos-de-arvores.html](https://curso-r.github.io/202310-intro-ml/slides/03-modelos-de-arvores.html)   |
 
 ## Scripts utilizados em aula
 
