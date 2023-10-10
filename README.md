@@ -34,8 +34,10 @@ Fora do horário de aula ou monitoria:
 
 ## Scripts utilizados em aula
 
-| Exemplo |
-|:--------|
+| Exemplo                                                                                         |
+|:------------------------------------------------------------------------------------------------|
+| [01-tidymodels.R](https://curso-r.github.io/202310-intro-ml/exemplos_de_aula/01-tidymodels.R)   |
+| [02-overfitting.R](https://curso-r.github.io/202310-intro-ml/exemplos_de_aula/02-overfitting.R) |
 
 ## Práticas
 
